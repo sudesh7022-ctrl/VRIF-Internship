@@ -82,6 +82,7 @@ JavaScript data types are divided into two categories:
 
 1. Primitive Data Types
 Primitive types store single simple values.
+
 Types of primitive data types:
 1. Number
 Used for numbers.
